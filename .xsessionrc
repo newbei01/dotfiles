@@ -1,0 +1,5 @@
+# make sure ~/.profile is sourced
+if [ -f "$HOME/.profile" ]; then
+	. "$HOME/.profile"
+fi
+
