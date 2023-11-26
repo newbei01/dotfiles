@@ -1,0 +1,59 @@
+!Xft settings
+Xft.antialias: true
+Xft.hinting: true
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.dpi: 96
+Xft.lcdfilter: lcddefault
+
+!XTerm*font: -adobe-courier-medium-r-normal-*-14-*-*-*-*-*-*-*
+XTerm*faceName: xft:Courier 10 Pitch:size=11
+!XTerm*boldMode: false
+
+URxvt*font: Cousine:size=11
+URxvt*boldFont:
+!URxvt*letterSpacing: 0
+!URxvt*lineSpacing: 0
+!*.saveLines: 4096
+!*.scrollBar: false
+!*.scrollbarRight: false
+!
+
+!!Colors
+! special
+*.foreground:   #8ca68c
+*.background:   #131513
+*.cursorColor:  #8ca68c
+
+! black
+*.color0:       #131513
+*.color8:       #687d68
+
+! red
+*.color1:       #e6193c
+*.color9:       #e6193c
+
+! green
+*.color2:       #29a329
+*.color10:      #29a329
+
+! yellow
+*.color3:       #c3c322
+*.color11:      #c3c322
+
+! blue
+*.color4:       #3d62f5
+*.color12:      #3d62f5
+
+! magenta
+*.color5:       #ad2bee
+*.color13:      #ad2bee
+
+! cyan
+*.color6:       #1999b3
+*.color14:      #1999b3
+
+! white
+*.color7:       #8ca68c
+*.color15:      #f0fff0
+
